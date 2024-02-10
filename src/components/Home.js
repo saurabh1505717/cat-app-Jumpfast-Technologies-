@@ -64,7 +64,7 @@ const Home = () => {
                             </Typography>
                             <hr />
                             <Typography variant="body1" color="text.secondary">
-                                <h4>Lifespan: {catData.life_span} + "years"</h4>
+                                <h4>Lifespan: ({catData.life_span}) years</h4>
                             </Typography>
                         </CardContent>
                     </Card>
